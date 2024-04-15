@@ -3,7 +3,7 @@
 
 <template class="bg-">
   <div class="flex flex-col items-center space-y-4">
-    <img class="w-72 md:w-80 lg:w-96 rounded border-4 border-white" src="./assets/KCW.jpg">
+    <img class="w-60 md:w-72 lg:w-80 rounded border-4 border-white" src="./assets/me.jpg">
   </div>
   <br>
   <div class="flex flex-col items-center space-y-2 bg-white text-black hover:bg-black hover:text-white py-2 rounded">
