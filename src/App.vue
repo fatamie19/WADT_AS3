@@ -1,30 +1,22 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
+  <div class="flex flex-col items-center space-y-4">
+    <img class="w-72 md:w-80 lg:w-96 rounded" src="./assets/KCW.jpg">
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <br>
+  <div class="flex flex-col items-center space-y-2 bg-white text-black hover:bg-black hover:text-white px-10 py-2 rounded">
+    <p class="font-serif text-3xl md:text-4xl lg:text-5xl">About Me</p>
+    <p class="text-base md:text-lg lg:text-xl">Name: Fatin Amierah</p>
+    <p class="text-base md:text-lg lg:text-xl">Age: 19 Years old</p>
+    <p class="text-base md:text-lg lg:text-xl">Course: Web Development</p>
+    <p class="text-base md:text-lg lg:text-xl">College: Politeknik Brunei</p>
+  </div>
+  <br>
+
 </template>
 
 <style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
+
 </style>
