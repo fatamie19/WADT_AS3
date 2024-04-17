@@ -10,7 +10,7 @@
     <p class="font-serif text-3xl md:text-4xl lg:text-5xl">About Me</p>
     <p class="text-base md:text-lg lg:text-xl">Name: Fatin Amierah Hj Ramli</p>
     <p class="text-base md:text-lg lg:text-xl">Age: 19 Years old</p>
-    <p class="text-base md:text-lg lg:text-xl">Course: Level 5 diploma in Web Development</p>
+    <p class="text-base md:text-lg lg:text-xl">Course: Level 5 Diploma in Web Development</p>
     <p class="text-base md:text-lg lg:text-xl">College: Politeknik Brunei</p>
   </div>
   <br>
